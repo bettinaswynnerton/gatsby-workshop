@@ -17,7 +17,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#000`,
         display: `minimal-ui`,
-        icon: `src/images/ring.ico`,
+        icon: `src/images/ring.png`,
       },
     },
     `gatsby-plugin-postcss`,
