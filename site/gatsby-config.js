@@ -1,10 +1,10 @@
 /*eslint no-template-curly-in-string:0*/
 module.exports = {
   siteMetadata: {
-    title: `SketchXConf 2020`,
-    description: `description`,
-    author: `@you`,
-    siteUrl: `https://monica.dev/gatsbyworkshop`,
+    title: `AstraCodeClub 2020`,
+    description: `Let's learn together to build some apps with Astra`,
+    author: `@technibelle`,
+    siteUrl: `https://admiring-lumiere-13f880.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -17,7 +17,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#000`,
         display: `minimal-ui`,
-        icon: `src/images/pencil-icon.png`,
+        icon: `src/images/ring.ico`,
       },
     },
     `gatsby-plugin-postcss`,
